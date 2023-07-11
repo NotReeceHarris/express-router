@@ -1,4 +1,4 @@
-# 🕸️ Advanced express routing template 
+# Advanced express routing template 
 Effortless, Streamlined, Expandable. This routing template facilitates well-structured file trees and efficient routing capabilities.
 
 ## 🌳 File tree
