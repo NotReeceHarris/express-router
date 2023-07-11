@@ -15,6 +15,8 @@ web_app/
 ├─ router.js
 ```
 <sub>Any `.js` file and its subfiles within the [`routes/`](/routes/) directory are automatically routed.</sub>
+<br>
+<br>
 
 ## 📜 Template
 This router file necessitates a distinctive module export, but it is straightforward and hassle-free to configure. Simply provide the `route`, which serves as the primary web path for every route created within the file. Next, specify the `function`, a simple arrow function that incorporates the express module. To create a middleware router, use [`express.Router()`](https://expressjs.com/en/guide/routing.html#express-router).
@@ -39,6 +41,8 @@ module.exports = {
 }
 ```
 <sub>The code snippet provided above represents an example code located within the file [`routes/foo/bar/bar.js`](/routes/foo/bar/bar.js).</sub>
+<br>
+<br>
 
 
 ## 🚧 Error handling
