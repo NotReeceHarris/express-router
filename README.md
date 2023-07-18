@@ -1,6 +1,16 @@
 # Advanced express routing template 
 Effortless, Streamlined, Expandable. This routing template facilitates well-structured file trees and efficient routing capabilities.
 
+## 🏃 Running
+Super simple steps to run the hello world boiler plate.
+```
+git clone https://github.com/NotReeceHarris/express-router.git
+cd express-router
+npm i
+npm run start
+```
+
+
 ## 🌳 File tree
 This router grants you the freedom to organize your router files according to your preferences, without any limitations. As long as the file contents adhere to the [template](#-template), you can utilize any file tree scheme or naming convention that suits your needs.
 ```
